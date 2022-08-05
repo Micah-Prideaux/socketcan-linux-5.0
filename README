@@ -1,6 +1,7 @@
-Currently working on Kernel 5.11 
+Currently working on Kernel 5.15
+Not backward compatible as the CAN Headers are changed from 5.11 onwards 
 
-Tested with Ixxat USB-to-CAN-v2 (Classic CAN) and Ixxat USB-to-CAN FD on 5.11 Ubuntu 20.04 HWE
+Tested with Ixxat USB-to-CAN-v2 (Classic CAN) and Ixxat USB-to-CAN FD on 5.15 Ubuntu 20.04 HWE
 
 
 IXXAT Automation GmbH - SocketCAN Driver
