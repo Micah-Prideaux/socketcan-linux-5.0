@@ -32,8 +32,8 @@
 #include "ixx_usb_core.h"
 
 #ifdef CANFD_CAPABLE
-
-MODULE_SUPPORTED_DEVICE("IXXAT Automation GmbH USB-to-CAN FD");
+//The below macro has been discontinued from 5.11
+//MODULE_SUPPORTED_DEVICE("IXXAT Automation GmbH USB-to-CAN FD");
 
 /* use ifi can fd clock due to internal bittiming calculations */
 #define IFIFD_CRYSTAL_HZ	      80000000
